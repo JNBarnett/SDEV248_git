@@ -1,0 +1,2605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="177.19969"
+   height="56.002285"
+   viewBox="0 0 46.884085 14.817269"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="simple_knight.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     inkscape:zoom="5.7513468"
+     inkscape:cx="88.587946"
+     inkscape:cy="19.039019"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g94"
+     showgrid="true">
+    <inkscape:grid
+       id="grid187"
+       units="px"
+       originx="3.1580088e-07"
+       originy="-0.13229136"
+       spacingx="1.058333"
+       spacingy="1.0583333"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="16"
+       enabled="true"
+       visible="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <rect
+       x="1.5648509"
+       y="18.343531"
+       width="65.115181"
+       height="13.388169"
+       id="rect159" />
+  </defs>
+  <g
+     id="g75"
+     inkscape:label="Knight_Neutral"
+     transform="translate(7.2404175,12.961481)">
+    <g
+       inkscape:label="Knight1_Neu"
+       inkscape:groupmode="layer"
+       id="layer1"
+       transform="translate(20.818906,20.300606)">
+      <rect
+         style="fill:#423623;fill-opacity:1;stroke-width:0.0737462"
+         id="rect3"
+         width="2.0110757"
+         height="1.6939651"
+         x="-26.978825"
+         y="-30.722664"
+         inkscape:label="Body" />
+      <g
+         id="g9"
+         inkscape:label="Left Shoulder"
+         transform="matrix(0.24980286,0,0,0.2034384,-46.940174,-34.980972)">
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4-5"
+           width="3.9845405"
+           height="3.1958935"
+           x="37.921455"
+           y="81.60051"
+           transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4"
+           width="4.692379"
+           height="3.7723048"
+           x="37.370392"
+           y="79.682106"
+           transform="rotate(-51.219221)" />
+      </g>
+      <g
+         id="g8"
+         inkscape:label="Right Shoulder"
+         transform="matrix(0.24980286,0,0,0.2034384,-46.940174,-34.980972)">
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4-5-1"
+           width="3.9845405"
+           height="3.1958935"
+           x="56.881985"
+           y="-56.881321"
+           transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4-1"
+           width="4.692379"
+           height="3.7723048"
+           x="56.619164"
+           y="-58.933102"
+           transform="rotate(58.644452)" />
+      </g>
+      <g
+         id="g5"
+         inkscape:label="Helmet"
+         transform="matrix(0.24980286,0,0,0.2034384,-46.940174,-34.980972)">
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+           id="rect5"
+           width="11.970869"
+           height="11.724894"
+           x="41.485355"
+           y="65.540359"
+           ry="0"
+           transform="rotate(-45)"
+           inkscape:label="Helmet" />
+        <g
+           id="g7"
+           inkscape:label="Visor">
+          <rect
+             style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+             id="rect6"
+             width="7.8430977"
+             height="0.71748519"
+             x="78.476845"
+             y="0.87865049"
+             transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+          <rect
+             style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+             id="rect7"
+             width="8.0705881"
+             height="0.71467429"
+             x="-96.121185"
+             y="-36.957619"
+             transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g113"
+       inkscape:label="Left_Neu"
+       transform="translate(0,-16.321553)">
+      <g
+         inkscape:label="Knight1_Left_Neu_frm4"
+         inkscape:groupmode="layer"
+         id="g122"
+         transform="translate(4.284642,8.6899193)">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.091846"
+           id="rect113"
+           width="1.848428"
+           height="2.8587289"
+           x="1.0249679"
+           y="1.3179723"
+           inkscape:label="Body" />
+        <g
+           id="g115"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.391796,-2.2816135)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect114"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect115"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g117"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-18.871323,-2.2816135)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect116"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect117"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g121"
+           inkscape:label="Helmet"
+           transform="matrix(0.15493767,0,0,0.20398351,-11.41371,-2.2908381)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect118"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g120"
+             inkscape:label="Visor"
+             transform="matrix(0.87219698,0,0,1,9.7252729,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect119"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect120"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Left_Neu_frm3"
+         inkscape:groupmode="layer"
+         id="g103"
+         transform="translate(0.48933516,8.5289062)"
+         sodipodi:insensitive="true">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0833213"
+           id="rect94"
+           width="1.848428"
+           height="2.3526881"
+           x="1.0479698"
+           y="1.9620243"
+           inkscape:label="Body" />
+        <g
+           id="g96"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.368794,-1.6375615)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect95"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect96"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g98"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-18.848321,-1.6375615)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect97"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect98"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g102"
+           inkscape:label="Helmet"
+           transform="matrix(0.15493767,0,0,0.20398351,-11.390708,-1.6467861)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect99"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g101"
+             inkscape:label="Visor"
+             transform="matrix(0.87219698,0,0,1,9.7252729,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect100"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect101"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Left_Neu_frm2"
+         inkscape:groupmode="layer"
+         id="g37"
+         transform="translate(-3.3979789,8.6669175)"
+         sodipodi:insensitive="true">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0760826"
+           id="rect28"
+           width="1.848428"
+           height="1.9616565"
+           x="1.0804994"
+           y="2.257102"
+           inkscape:label="Body" />
+        <g
+           id="g30"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.336264,-1.3424839)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect29"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect30"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g32"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-18.815791,-1.3424839)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect31"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect32"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g36"
+           inkscape:label="Helmet"
+           transform="matrix(0.15493767,0,0,0.20398351,-11.358178,-1.3517084)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect33"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g35"
+             inkscape:label="Visor"
+             transform="matrix(0.87219698,0,0,1,9.7252729,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect34"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect35"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Left_Neu_frm1"
+         inkscape:groupmode="layer"
+         id="g112"
+         transform="translate(-7.3312964,8.5289062)"
+         sodipodi:insensitive="true">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0833213"
+           id="rect103"
+           width="1.848428"
+           height="2.3526881"
+           x="1.0804994"
+           y="1.8807005"
+           inkscape:label="Body" />
+        <g
+           id="g105"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.336263,-1.7188853)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect104"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect105"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g107"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-18.815791,-1.7188853)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect106"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect107"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g111"
+           inkscape:label="Helmet"
+           transform="matrix(0.15493767,0,0,0.20398351,-11.358178,-1.72811)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect108"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g110"
+             inkscape:label="Visor"
+             transform="matrix(0.87219698,0,0,1,9.7252729,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect109"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect110"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g159"
+       inkscape:label="Right_Neu"
+       transform="translate(0.23001859,-19.231969)">
+      <g
+         inkscape:label="Knight1_Left_Neu_frm4"
+         inkscape:groupmode="layer"
+         id="g131"
+         transform="matrix(-1,0,0,1,7.9246298,12.790961)">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.091846"
+           id="rect122"
+           width="1.848428"
+           height="2.8587289"
+           x="1.0249679"
+           y="5.4190135"
+           inkscape:label="Body" />
+        <g
+           id="g124"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.391796,1.8194279)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect123"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect124"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g126"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-18.871323,1.8194279)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect125"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect126"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g130"
+           inkscape:label="Helmet"
+           transform="matrix(0.15493767,0,0,0.20398351,-11.41371,1.8102033)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect127"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g129"
+             inkscape:label="Visor"
+             transform="matrix(0.87219698,0,0,1,9.7252729,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect128"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect129"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Left_Neu_frm3"
+         inkscape:groupmode="layer"
+         id="g140"
+         transform="matrix(-1,0,0,1,4.175327,12.629948)"
+         sodipodi:insensitive="true">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0833213"
+           id="rect131"
+           width="1.848428"
+           height="2.3526881"
+           x="1.0479698"
+           y="6.0630655"
+           inkscape:label="Body" />
+        <g
+           id="g133"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.368794,2.4634799)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect132"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect133"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g135"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-18.848321,2.4634799)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect134"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect135"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g139"
+           inkscape:label="Helmet"
+           transform="matrix(0.15493767,0,0,0.20398351,-11.390708,2.4542553)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect136"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g138"
+             inkscape:label="Visor"
+             transform="matrix(0.87219698,0,0,1,9.7252729,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect137"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect138"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Left_Neu_frm2"
+         inkscape:groupmode="layer"
+         id="g149"
+         transform="matrix(-1,0,0,1,0.35307292,12.767959)"
+         sodipodi:insensitive="true">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0760826"
+           id="rect140"
+           width="1.848428"
+           height="1.9616565"
+           x="1.0804994"
+           y="6.3581433"
+           inkscape:label="Body" />
+        <g
+           id="g142"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.336264,2.7585575)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect141"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect142"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g144"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-18.815791,2.7585575)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect143"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect144"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g148"
+           inkscape:label="Helmet"
+           transform="matrix(0.15493767,0,0,0.20398351,-11.358178,2.749333)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect145"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g147"
+             inkscape:label="Visor"
+             transform="matrix(0.87219698,0,0,1,9.7252729,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect146"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect147"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Left_Neu_frm1"
+         inkscape:groupmode="layer"
+         id="g158"
+         transform="matrix(-1,0,0,1,-3.5802436,12.629948)"
+         sodipodi:insensitive="true">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0833213"
+           id="rect149"
+           width="1.848428"
+           height="2.3526881"
+           x="1.0804994"
+           y="5.9817419"
+           inkscape:label="Body" />
+        <g
+           id="g151"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.336263,2.3821561)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect150"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect151"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g153"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-18.815791,2.3821561)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect152"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect153"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g157"
+           inkscape:label="Helmet"
+           transform="matrix(0.15493767,0,0,0.20398351,-11.358178,2.3729314)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect154"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g156"
+             inkscape:label="Visor"
+             transform="matrix(0.87219698,0,0,1,9.7252729,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect155"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect156"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g74"
+     inkscape:label="Knight_Up"
+     inkscape:highlight-color="#1d28f0"
+     transform="translate(27.294632,-0.2041518)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="Knight1_LookUp"
+       transform="translate(-27.105416,-0.39314507)">
+      <rect
+         style="fill:#423623;fill-opacity:1;stroke-width:0.0910036"
+         id="rect3-6"
+         width="2.0110757"
+         height="2.5795367"
+         x="5.3424311"
+         y="2.2366142"
+         inkscape:label="Body" />
+      <g
+         id="g9-1"
+         inkscape:label="Left Shoulder"
+         transform="matrix(0.24980286,0,0,0.2034384,-14.618918,-1.7226708)">
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4-5-4"
+           width="3.9845405"
+           height="3.1958935"
+           x="37.921455"
+           y="81.60051"
+           transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4-2"
+           width="4.692379"
+           height="3.7723048"
+           x="37.370392"
+           y="79.682106"
+           transform="rotate(-51.219221)" />
+      </g>
+      <g
+         id="g8-3"
+         inkscape:label="Right Shoulder"
+         transform="matrix(0.24980286,0,0,0.2034384,-14.586388,-1.8039947)">
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4-5-1-2"
+           width="3.9845405"
+           height="3.1958935"
+           x="56.881985"
+           y="-56.881321"
+           transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+           id="rect4-1-2"
+           width="4.692379"
+           height="3.7723048"
+           x="56.619164"
+           y="-58.933102"
+           transform="rotate(58.644452)" />
+      </g>
+      <g
+         id="g5-1"
+         inkscape:label="Helmet"
+         transform="matrix(0.25055216,0,0,0.10178954,-14.762409,0.04923531)">
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.147961;stroke-opacity:1"
+           id="rect2"
+           width="13.100177"
+           height="12.830997"
+           x="48.452175"
+           y="68.7519"
+           ry="0"
+           transform="matrix(0.64574436,-0.76355368,0.64574436,0.76355368,0,0)"
+           inkscape:label="Helmet" />
+        <g
+           id="g10"
+           inkscape:label="Visor"
+           transform="translate(0.32131635,-1.8077974)">
+          <rect
+             style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+             id="rect8"
+             width="7.8430977"
+             height="0.71748519"
+             x="78.476845"
+             y="0.87865049"
+             transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+          <rect
+             style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+             id="rect9"
+             width="8.0705881"
+             height="0.71467429"
+             x="-96.121185"
+             y="-36.957619"
+             transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g160"
+       inkscape:label="Right"
+       transform="translate(16.46933,-14.450902)">
+      <g
+         inkscape:groupmode="layer"
+         id="g187"
+         inkscape:label="Knight1_Right_Up_frm4"
+         transform="translate(-19.639762,24.118987)">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0931567"
+           id="rect178"
+           width="1.8158985"
+           height="2.9935701"
+           x="5.5376081"
+           y="2.2366142"
+           inkscape:label="Body" />
+        <g
+           id="g180"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.537594,-1.5762879)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect179"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect180"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g182"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.14724,-1.7877299)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect181"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect182"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g186"
+           inkscape:label="Helmet"
+           transform="matrix(0.16477667,0,0,0.10210586,-7.1051557,0.25580696)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.147961;stroke-opacity:1"
+             id="rect183"
+             width="13.100177"
+             height="12.830997"
+             x="48.452175"
+             y="68.7519"
+             ry="0"
+             transform="matrix(0.64574436,-0.76355368,0.64574436,0.76355368,0,0)"
+             inkscape:label="Helmet" />
+          <g
+             id="g185"
+             inkscape:label="Visor"
+             transform="matrix(0.89880273,0,0,1,9.601331,-1.8077974)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect184"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect185"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g178"
+         inkscape:label="Knight1_Right_Up_frm3"
+         transform="translate(-23.688089,24.533019)">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0864749"
+           id="rect169"
+           width="1.8158985"
+           height="2.5795367"
+           x="5.5376081"
+           y="2.2366142"
+           inkscape:label="Body" />
+        <g
+           id="g171"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.537594,-1.5762879)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect170"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect171"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g173"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.14724,-1.7877299)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect172"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect173"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g177"
+           inkscape:label="Helmet"
+           transform="matrix(0.16477667,0,0,0.10210586,-7.1051557,0.25580696)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.147961;stroke-opacity:1"
+             id="rect174"
+             width="13.100177"
+             height="12.830997"
+             x="48.452175"
+             y="68.7519"
+             ry="0"
+             transform="matrix(0.64574436,-0.76355368,0.64574436,0.76355368,0,0)"
+             inkscape:label="Helmet" />
+          <g
+             id="g176"
+             inkscape:label="Visor"
+             transform="matrix(0.89880273,0,0,1,9.601331,-1.8077974)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect175"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect176"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g169"
+         inkscape:label="Knight1_Right_Up_frm2"
+         transform="translate(-27.736416,24.648029)">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0735582"
+           id="rect160"
+           width="1.8158985"
+           height="1.866479"
+           x="5.4686027"
+           y="2.8576643"
+           inkscape:label="Body" />
+        <g
+           id="g162"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.6066,-0.95523771)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect161"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect162"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g164"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.216246,-1.1666797)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect163"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect164"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g168"
+           inkscape:label="Helmet"
+           transform="matrix(0.16477667,0,0,0.10210586,-7.1741613,0.87685715)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.147961;stroke-opacity:1"
+             id="rect165"
+             width="13.100177"
+             height="12.830997"
+             x="48.452175"
+             y="68.7519"
+             ry="0"
+             transform="matrix(0.64574436,-0.76355368,0.64574436,0.76355368,0,0)"
+             inkscape:label="Helmet" />
+          <g
+             id="g167"
+             inkscape:label="Visor"
+             transform="matrix(0.89880273,0,0,1,9.601331,-1.8077974)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect166"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect167"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g73"
+         inkscape:label="Knight1_Right_Up_frm1"
+         transform="translate(-31.62373,24.487016)">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0864749"
+           id="rect64"
+           width="1.8158985"
+           height="2.5795367"
+           x="5.5376081"
+           y="2.2366142"
+           inkscape:label="Body" />
+        <g
+           id="g66"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.537594,-1.5762879)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect65"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect66"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g68"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.14724,-1.7877299)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect67"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect68"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g72"
+           inkscape:label="Helmet"
+           transform="matrix(0.16477667,0,0,0.10210586,-7.1051557,0.25580696)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.147961;stroke-opacity:1"
+             id="rect69"
+             width="13.100177"
+             height="12.830997"
+             x="48.452175"
+             y="68.7519"
+             ry="0"
+             transform="matrix(0.64574436,-0.76355368,0.64574436,0.76355368,0,0)"
+             inkscape:label="Helmet" />
+          <g
+             id="g71"
+             inkscape:label="Visor"
+             transform="matrix(0.89880273,0,0,1,9.601331,-1.8077974)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect70"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect71"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g224"
+       inkscape:label="Left"
+       transform="translate(16.561338,-19.742569)">
+      <g
+         inkscape:groupmode="layer"
+         id="g196"
+         inkscape:label="Knight1_Left_Up_frm4"
+         transform="matrix(-1,0,0,1,-6.5364982,24.164991)">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0931567"
+           id="rect187"
+           width="1.8158985"
+           height="2.9935701"
+           x="5.5376081"
+           y="2.2366142"
+           inkscape:label="Body" />
+        <g
+           id="g189"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.537594,-1.5762879)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect188"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect189"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g191"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.14724,-1.7877299)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect190"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect191"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g195"
+           inkscape:label="Helmet"
+           transform="matrix(0.16477667,0,0,0.10210586,-7.1051557,0.25580696)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.147961;stroke-opacity:1"
+             id="rect192"
+             width="13.100177"
+             height="12.830997"
+             x="48.452175"
+             y="68.7519"
+             ry="0"
+             transform="matrix(0.64574436,-0.76355368,0.64574436,0.76355368,0,0)"
+             inkscape:label="Helmet" />
+          <g
+             id="g194"
+             inkscape:label="Visor"
+             transform="matrix(0.89880273,0,0,1,9.601331,-1.8077974)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect193"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect194"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g205"
+         inkscape:label="Knight1_Left_Up_frm3"
+         transform="matrix(-1,0,0,1,-10.446814,24.487016)">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0864749"
+           id="rect196"
+           width="1.8158985"
+           height="2.5795367"
+           x="5.5376081"
+           y="2.2366142"
+           inkscape:label="Body" />
+        <g
+           id="g198"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.537594,-1.5762879)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect197"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect198"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g200"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.14724,-1.7877299)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect199"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect200"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g204"
+           inkscape:label="Helmet"
+           transform="matrix(0.16477667,0,0,0.10210586,-7.1051557,0.25580696)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.147961;stroke-opacity:1"
+             id="rect201"
+             width="13.100177"
+             height="12.830997"
+             x="48.452175"
+             y="68.7519"
+             ry="0"
+             transform="matrix(0.64574436,-0.76355368,0.64574436,0.76355368,0,0)"
+             inkscape:label="Helmet" />
+          <g
+             id="g203"
+             inkscape:label="Visor"
+             transform="matrix(0.89880273,0,0,1,9.601331,-1.8077974)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect202"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect203"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g214"
+         inkscape:label="Knight1_Left_Up_frm2"
+         transform="matrix(-1,0,0,1,-14.656155,24.648029)">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0735582"
+           id="rect205"
+           width="1.8158985"
+           height="1.866479"
+           x="5.4686027"
+           y="2.8576643"
+           inkscape:label="Body" />
+        <g
+           id="g207"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.6066,-0.95523771)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect206"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect207"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g209"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.216246,-1.1666797)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect208"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect209"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g213"
+           inkscape:label="Helmet"
+           transform="matrix(0.16477667,0,0,0.10210586,-7.1741613,0.87685715)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.147961;stroke-opacity:1"
+             id="rect210"
+             width="13.100177"
+             height="12.830997"
+             x="48.452175"
+             y="68.7519"
+             ry="0"
+             transform="matrix(0.64574436,-0.76355368,0.64574436,0.76355368,0,0)"
+             inkscape:label="Helmet" />
+          <g
+             id="g212"
+             inkscape:label="Visor"
+             transform="matrix(0.89880273,0,0,1,9.601331,-1.8077974)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect211"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect212"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g223"
+         inkscape:label="Knight1_Left_Up_frm1"
+         transform="matrix(-1,0,0,1,-18.405457,24.487016)">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0864749"
+           id="rect214"
+           width="1.8158985"
+           height="2.5795367"
+           x="5.5376081"
+           y="2.2366142"
+           inkscape:label="Body" />
+        <g
+           id="g216"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.537594,-1.5762879)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect215"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect216"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g218"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-14.14724,-1.7877299)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect217"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect218"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g222"
+           inkscape:label="Helmet"
+           transform="matrix(0.16477667,0,0,0.10210586,-7.1051557,0.25580696)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.147961;stroke-opacity:1"
+             id="rect219"
+             width="13.100177"
+             height="12.830997"
+             x="48.452175"
+             y="68.7519"
+             ry="0"
+             transform="matrix(0.64574436,-0.76355368,0.64574436,0.76355368,0,0)"
+             inkscape:label="Helmet" />
+          <g
+             id="g221"
+             inkscape:label="Visor"
+             transform="matrix(0.89880273,0,0,1,9.601331,-1.8077974)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect220"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect221"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g94"
+     inkscape:label="Knight_Down"
+     inkscape:highlight-color="#cb1717"
+     transform="translate(33.643145,12.722893)">
+    <g
+       inkscape:label="Knight1_LookDown"
+       inkscape:groupmode="layer"
+       id="g28"
+       transform="translate(-24.991782,-14.015502)"
+       inkscape:highlight-color="#e33d3b">
+      <rect
+         style="fill:#423623;fill-opacity:1;stroke-width:0.0626468"
+         id="rect19"
+         width="2.0110757"
+         height="1.222427"
+         x="1.0804994"
+         y="4.2592154"
+         inkscape:label="Body" />
+      <g
+         id="g21"
+         inkscape:label="Left Shoulder"
+         transform="matrix(0.24980286,0,0,0.2034384,-18.945909,0.19608351)">
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+           id="rect20"
+           width="3.9845405"
+           height="3.1958935"
+           x="37.921455"
+           y="81.60051"
+           transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+           id="rect21"
+           width="4.692379"
+           height="3.7723048"
+           x="37.370392"
+           y="79.682106"
+           transform="rotate(-51.219221)" />
+      </g>
+      <g
+         id="g23"
+         inkscape:label="Right Shoulder"
+         transform="matrix(0.24980286,0,0,0.2034384,-18.864585,0.11475971)">
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+           id="rect22"
+           width="3.9845405"
+           height="3.1958935"
+           x="56.881985"
+           y="-56.881321"
+           transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+           id="rect23"
+           width="4.692379"
+           height="3.7723048"
+           x="56.619164"
+           y="-58.933102"
+           transform="rotate(58.644452)" />
+      </g>
+      <g
+         id="g27"
+         inkscape:label="Helmet"
+         transform="matrix(0.25055824,0,0,0.10110839,-18.990349,2.1581195)">
+        <rect
+           style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+           id="rect24"
+           width="11.970869"
+           height="11.724894"
+           x="41.485355"
+           y="65.540359"
+           ry="0"
+           transform="rotate(-45)"
+           inkscape:label="Helmet" />
+        <g
+           id="g26"
+           inkscape:label="Visor">
+          <rect
+             style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+             id="rect25"
+             width="7.8430977"
+             height="0.71748519"
+             x="78.476845"
+             y="0.87865049"
+             transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+          <rect
+             style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+             id="rect26"
+             width="8.0705881"
+             height="0.71467429"
+             x="-96.121185"
+             y="-36.957619"
+             transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g225"
+       inkscape:label="Left"
+       transform="translate(0.05750464,0.01150093)">
+      <g
+         inkscape:label="Knight1_Left_Down_frm4"
+         inkscape:groupmode="layer"
+         id="g252"
+         transform="translate(10.278712,-7.380988)"
+         inkscape:highlight-color="#e33d3b">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0556068"
+           id="rect243"
+           width="1.2635154"
+           height="1.5329521"
+           x="0.78147525"
+           y="2.5164218"
+           inkscape:label="Body" />
+        <g
+           id="g245"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-20.091717,-1.5471889)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect244"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect245"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g247"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.076027,-1.6375615)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect246"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect247"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g251"
+           inkscape:label="Helmet"
+           transform="matrix(0.16749208,0,0,0.10143943,-12.70967,0.43272575)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect248"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g250"
+             inkscape:label="Visor"
+             transform="matrix(0.85066504,0,0,1,11.363763,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect249"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect250"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Left_Down_frm3"
+         inkscape:groupmode="layer"
+         id="g243"
+         transform="translate(6.9434438,-7.058962)"
+         inkscape:highlight-color="#e33d3b">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0496564"
+           id="rect234"
+           width="1.2635154"
+           height="1.222427"
+           x="0.78147525"
+           y="2.5164218"
+           inkscape:label="Body" />
+        <g
+           id="g236"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-20.091717,-1.5471889)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect235"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect236"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g238"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.076027,-1.6375615)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect237"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect238"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g242"
+           inkscape:label="Helmet"
+           transform="matrix(0.16749208,0,0,0.10143943,-12.70967,0.43272575)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect239"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g241"
+             inkscape:label="Visor"
+             transform="matrix(0.85066504,0,0,1,11.363763,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect240"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect241"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Left_Down_frm2"
+         inkscape:groupmode="layer"
+         id="g234"
+         transform="translate(3.6426775,-6.8691967)"
+         inkscape:highlight-color="#e33d3b">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0457666"
+           id="rect225"
+           width="1.2635154"
+           height="1.0384121"
+           x="0.78147525"
+           y="2.5164218"
+           inkscape:label="Body" />
+        <g
+           id="g227"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-20.091717,-1.5471889)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect226"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect227"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g229"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.076027,-1.6375615)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect228"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect229"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g233"
+           inkscape:label="Helmet"
+           transform="matrix(0.16749208,0,0,0.10143943,-12.70967,0.43272575)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect230"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g232"
+             inkscape:label="Visor"
+             transform="matrix(0.85066504,0,0,1,11.363763,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect231"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect232"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Left_Down_frm1"
+         inkscape:groupmode="layer"
+         id="g84"
+         transform="translate(0.36491296,-7.058962)"
+         inkscape:highlight-color="#e33d3b">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0496564"
+           id="rect75"
+           width="1.2635154"
+           height="1.222427"
+           x="0.78147525"
+           y="2.5164218"
+           inkscape:label="Body" />
+        <g
+           id="g77"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-20.091717,-1.5471889)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect76"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect77"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g79"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.076027,-1.6375615)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect78"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect79"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g83"
+           inkscape:label="Helmet"
+           transform="matrix(0.16749208,0,0,0.10143943,-12.70967,0.43272575)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect80"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g82"
+             inkscape:label="Visor"
+             transform="matrix(0.85066504,0,0,1,11.363763,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect81"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect82"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g357"
+       inkscape:label="Right"
+       transform="translate(0.03484134,5.2444235)">
+      <g
+         inkscape:label="Knight1_Right_Down_frm4"
+         inkscape:groupmode="layer"
+         id="g329"
+         transform="matrix(-1,0,0,1,13.014075,-7.380988)"
+         inkscape:highlight-color="#e33d3b">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0556068"
+           id="rect320"
+           width="1.2635154"
+           height="1.5329521"
+           x="0.78147525"
+           y="2.5164218"
+           inkscape:label="Body" />
+        <g
+           id="g322"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-20.091717,-1.5471889)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect321"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect322"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g324"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.076027,-1.6375615)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect323"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect324"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g328"
+           inkscape:label="Helmet"
+           transform="matrix(0.16749208,0,0,0.10143943,-12.70967,0.43272575)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect325"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g327"
+             inkscape:label="Visor"
+             transform="matrix(0.85066504,0,0,1,11.363763,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect326"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect327"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Right_Down_frm3"
+         inkscape:groupmode="layer"
+         id="g338"
+         transform="matrix(-1,0,0,1,9.6788066,-7.058962)"
+         inkscape:highlight-color="#e33d3b">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0496564"
+           id="rect329"
+           width="1.2635154"
+           height="1.222427"
+           x="0.78147525"
+           y="2.5164218"
+           inkscape:label="Body" />
+        <g
+           id="g331"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-20.091717,-1.5471889)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect330"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect331"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g333"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.076027,-1.6375615)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect332"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect333"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g337"
+           inkscape:label="Helmet"
+           transform="matrix(0.16749208,0,0,0.10143943,-12.70967,0.43272575)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect334"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g336"
+             inkscape:label="Visor"
+             transform="matrix(0.85066504,0,0,1,11.363763,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect335"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect336"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Right_Down_frm2"
+         inkscape:groupmode="layer"
+         id="g347"
+         transform="matrix(-1,0,0,1,6.3780403,-6.8691967)"
+         inkscape:highlight-color="#e33d3b">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0457666"
+           id="rect338"
+           width="1.2635154"
+           height="1.0384121"
+           x="0.78147525"
+           y="2.5164218"
+           inkscape:label="Body" />
+        <g
+           id="g340"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-20.091717,-1.5471889)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect339"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect340"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g342"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.076027,-1.6375615)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect341"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect342"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g346"
+           inkscape:label="Helmet"
+           transform="matrix(0.16749208,0,0,0.10143943,-12.70967,0.43272575)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect343"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g345"
+             inkscape:label="Visor"
+             transform="matrix(0.85066504,0,0,1,11.363763,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect344"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect345"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+      <g
+         inkscape:label="Knight1_Right_Down_frm1"
+         inkscape:groupmode="layer"
+         id="g356"
+         transform="matrix(-1,0,0,1,3.1002758,-7.058962)"
+         inkscape:highlight-color="#e33d3b">
+        <rect
+           style="fill:#423623;fill-opacity:1;stroke-width:0.0496564"
+           id="rect347"
+           width="1.2635154"
+           height="1.222427"
+           x="0.78147525"
+           y="2.5164218"
+           inkscape:label="Body" />
+        <g
+           id="g349"
+           inkscape:label="Left Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-20.091717,-1.5471889)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect348"
+             width="3.9845405"
+             height="3.1958935"
+             x="37.921455"
+             y="81.60051"
+             transform="matrix(0.62227098,-0.78280191,0.77626559,0.63040599,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect349"
+             width="4.692379"
+             height="3.7723048"
+             x="37.370392"
+             y="79.682106"
+             transform="rotate(-51.219221)" />
+        </g>
+        <g
+           id="g351"
+           inkscape:label="Right Shoulder"
+           transform="matrix(0.24980286,0,0,0.2034384,-19.076027,-1.6375615)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.224413;stroke-dasharray:none;stroke-opacity:1"
+             id="rect350"
+             width="3.9845405"
+             height="3.1958935"
+             x="56.881985"
+             y="-56.881321"
+             transform="matrix(0.52479083,0.85123121,-0.8566613,0.51587927,0,0)" />
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-dasharray:none;stroke-opacity:1"
+             id="rect351"
+             width="4.692379"
+             height="3.7723048"
+             x="56.619164"
+             y="-58.933102"
+             transform="rotate(58.644452)" />
+        </g>
+        <g
+           id="g355"
+           inkscape:label="Helmet"
+           transform="matrix(0.16749208,0,0,0.10143943,-12.70967,0.43272575)">
+          <rect
+             style="fill:#4a4a4a;fill-opacity:1;stroke:#000000;stroke-width:0.135206;stroke-opacity:1"
+             id="rect352"
+             width="11.970869"
+             height="11.724894"
+             x="41.485355"
+             y="65.540359"
+             ry="0"
+             transform="rotate(-45)"
+             inkscape:label="Helmet" />
+          <g
+             id="g354"
+             inkscape:label="Visor"
+             transform="matrix(0.85066504,0,0,1,11.363763,0)">
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.201686"
+               id="rect353"
+               width="7.8430977"
+               height="0.71748519"
+               x="78.476845"
+               y="0.87865049"
+               transform="matrix(0.97932485,0.20229395,-0.47522548,0.87986405,0,0)" />
+            <rect
+               style="fill:#030200;fill-opacity:1;stroke-width:0.204189"
+               id="rect354"
+               width="8.0705881"
+               height="0.71467429"
+               x="-96.121185"
+               y="-36.957619"
+               transform="matrix(-0.9789556,0.20407335,0.06611352,-0.99781211,0,0)" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
