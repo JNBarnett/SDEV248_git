@@ -213,7 +213,7 @@ animations = [{
 }],
 "loop": true,
 "name": &"Idle",
-"speed": 3.0
+"speed": 2.0
 }, {
 "frames": [{
 "duration": 1.0,
@@ -325,7 +325,8 @@ size = Vector2(32, 32)
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_ls0yk")
-animation = &"Idle"
+animation = &"Walk_Up_Right"
+frame_progress = 0.34694
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 visible = false
