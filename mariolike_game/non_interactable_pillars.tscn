@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://bjeiup32f5ltv"]
+
+[node name="Non-interactable_pillars" type="StaticBody2D"]
