@@ -12,7 +12,8 @@
 [node name="Parts" type="Node2D" parent="."]
 
 [node name="Body2_top" type="Sprite2D" parent="Parts"]
-rotation = -0.47822
+position = Vector2(1, -8)
+rotation = 2.80046
 texture = ExtResource("1_72kya")
 
 [node name="Body_bottom" type="Sprite2D" parent="Parts"]
@@ -20,42 +21,51 @@ position = Vector2(10, 42)
 texture = ExtResource("1_72kya")
 
 [node name="Head" type="Sprite2D" parent="Parts"]
-position = Vector2(-21, -49)
+position = Vector2(-19, -52)
+rotation = -1.90255
+scale = Vector2(1, 1)
 texture = ExtResource("2_b7a8r")
 
 [node name="Eye" type="Sprite2D" parent="Parts"]
-position = Vector2(-45, -54)
+position = Vector2(-44, -54)
+rotation = -1.69528
 texture = ExtResource("3_kmk8s")
 
 [node name="Eye2" type="Sprite2D" parent="Parts"]
-position = Vector2(2, -53)
+position = Vector2(2, -55)
+rotation = -1.66467
 texture = ExtResource("3_kmk8s")
 
 [node name="EarL" type="Sprite2D" parent="Parts"]
-position = Vector2(-99, -67)
+position = Vector2(-100, -64)
+rotation = -0.0659319
 texture = ExtResource("4_i616f")
 
 [node name="EarR" type="Sprite2D" parent="Parts"]
-position = Vector2(54, -70)
+position = Vector2(56, -70)
+rotation = -0.00374446
+scale = Vector2(1, 1)
 texture = ExtResource("5_wr6dc")
 
 [node name="Arm" type="Sprite2D" parent="Parts"]
-position = Vector2(-63, 18)
+position = Vector2(-62, 18)
+rotation = 0.0535384
 texture = ExtResource("6_cg5ay")
 
 [node name="Arm2" type="Sprite2D" parent="Parts"]
-position = Vector2(21, 18)
-rotation = 2.42532
+position = Vector2(24.12, 23.9683)
+rotation = -0.888174
 texture = ExtResource("6_cg5ay")
 
 [node name="Skeleton2D" type="Skeleton2D" parent="."]
+visible = false
 
 [node name="Spine_lower" type="Bone2D" parent="Skeleton2D"]
 position = Vector2(2, 58)
 rotation = -1.5681
 
 [node name="Spine_upper" type="Bone2D" parent="Skeleton2D/Spine_lower"]
-position = Vector2(38.0026, 0.89768)
+position = Vector2(37.0026, 0.900372)
 rotation = -0.277537
 
 [node name="Head" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
@@ -66,23 +76,60 @@ rotation = -0.0569068
 position = Vector2(22.9444, -17.4802)
 rotation = 0.207267
 
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head/Eye"]
+position = Vector2(12.0313, 0.497701)
+remote_path = NodePath("../../../../../../Parts/Eye")
+
 [node name="Eye2" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head"]
 position = Vector2(8.90765, 26.3373)
 rotation = 0.237874
+
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head/Eye2"]
+position = Vector2(12.0409, 0.129282)
+remote_path = NodePath("../../../../../../Parts/Eye2")
 
 [node name="Ear" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head"]
 position = Vector2(45.1014, -51.0966)
 rotation = -0.385131
 
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head/Ear"]
+position = Vector2(20.873, -5.68498)
+rotation = 2.22175
+remote_path = NodePath("../../../../../../Parts/EarL")
+
 [node name="Ear2" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head"]
 position = Vector2(5.75498, 56.9814)
 rotation = 0.974081
+
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head/Ear2"]
+position = Vector2(29.7925, 6.43491)
+rotation = 0.924722
+remote_path = NodePath("../../../../../../Parts/EarR")
+
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head"]
+position = Vector2(24.5823, 8.46819)
+remote_path = NodePath("../../../../../Parts/Head")
 
 [node name="Arm" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
 position = Vector2(11.4239, -33.1436)
 rotation = -1.27208
 scale = Vector2(1, 1)
 
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper/Arm"]
+position = Vector2(30.0153, 0.283747)
+rotation = -3.11192
+remote_path = NodePath("../../../../../Parts/Arm")
+
 [node name="Arm2" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
 position = Vector2(8.39344, 43.9267)
-rotation = -2.10465
+rotation = -2.15445
+
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper/Arm2"]
+position = Vector2(29.7234, -0.721768)
+rotation = 3.11192
+remote_path = NodePath("../../../../../Parts/Arm2")
+
+[node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
+position = Vector2(28.4543, 5.9456)
+rotation = -1.63708
+remote_path = NodePath("../../../../Parts/Body2_top")
