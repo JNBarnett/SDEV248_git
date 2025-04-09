@@ -1,0 +1,88 @@
+[gd_scene load_steps=7 format=3 uid="uid://8uh6haliurkk"]
+
+[ext_resource type="Texture2D" uid="uid://c1dwk5j1r17rt" path="res://Assets/body_2pts.png" id="1_72kya"]
+[ext_resource type="Texture2D" uid="uid://biw5jfnb1110l" path="res://Assets/head.png" id="2_b7a8r"]
+[ext_resource type="Texture2D" uid="uid://da1kqi74i2r1" path="res://Assets/eye.png" id="3_kmk8s"]
+[ext_resource type="Texture2D" uid="uid://di0gi5ogembp4" path="res://Assets/ear_l.png" id="4_i616f"]
+[ext_resource type="Texture2D" uid="uid://d0k60fut8durs" path="res://Assets/ear_r.png" id="5_wr6dc"]
+[ext_resource type="Texture2D" uid="uid://nekouwl4o6wb" path="res://Assets/arm.png" id="6_cg5ay"]
+
+[node name="Goblin" type="Node2D"]
+
+[node name="Parts" type="Node2D" parent="."]
+
+[node name="Body2_top" type="Sprite2D" parent="Parts"]
+rotation = -0.47822
+texture = ExtResource("1_72kya")
+
+[node name="Body_bottom" type="Sprite2D" parent="Parts"]
+position = Vector2(10, 42)
+texture = ExtResource("1_72kya")
+
+[node name="Head" type="Sprite2D" parent="Parts"]
+position = Vector2(-21, -49)
+texture = ExtResource("2_b7a8r")
+
+[node name="Eye" type="Sprite2D" parent="Parts"]
+position = Vector2(-45, -54)
+texture = ExtResource("3_kmk8s")
+
+[node name="Eye2" type="Sprite2D" parent="Parts"]
+position = Vector2(2, -53)
+texture = ExtResource("3_kmk8s")
+
+[node name="EarL" type="Sprite2D" parent="Parts"]
+position = Vector2(-99, -67)
+texture = ExtResource("4_i616f")
+
+[node name="EarR" type="Sprite2D" parent="Parts"]
+position = Vector2(54, -70)
+texture = ExtResource("5_wr6dc")
+
+[node name="Arm" type="Sprite2D" parent="Parts"]
+position = Vector2(-63, 18)
+texture = ExtResource("6_cg5ay")
+
+[node name="Arm2" type="Sprite2D" parent="Parts"]
+position = Vector2(21, 18)
+rotation = 2.42532
+texture = ExtResource("6_cg5ay")
+
+[node name="Skeleton2D" type="Skeleton2D" parent="."]
+
+[node name="Spine_lower" type="Bone2D" parent="Skeleton2D"]
+position = Vector2(2, 58)
+rotation = -1.5681
+
+[node name="Spine_upper" type="Bone2D" parent="Skeleton2D/Spine_lower"]
+position = Vector2(38.0026, 0.89768)
+rotation = -0.277537
+
+[node name="Head" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
+position = Vector2(51.2067, -8.41859)
+rotation = -0.0569068
+
+[node name="Eye" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head"]
+position = Vector2(22.9444, -17.4802)
+rotation = 0.207267
+
+[node name="Eye2" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head"]
+position = Vector2(8.90765, 26.3373)
+rotation = 0.237874
+
+[node name="Ear" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head"]
+position = Vector2(45.1014, -51.0966)
+rotation = -0.385131
+
+[node name="Ear2" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head"]
+position = Vector2(5.75498, 56.9814)
+rotation = 0.974081
+
+[node name="Arm" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
+position = Vector2(11.4239, -33.1436)
+rotation = -1.27208
+scale = Vector2(1, 1)
+
+[node name="Arm2" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
+position = Vector2(8.39344, 43.9267)
+rotation = -2.10465
