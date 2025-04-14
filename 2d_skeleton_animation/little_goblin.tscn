@@ -8,20 +8,21 @@
 [ext_resource type="Texture2D" uid="uid://nekouwl4o6wb" path="res://Assets/arm.png" id="6_cg5ay"]
 [ext_resource type="Script" uid="uid://fbkxrdjbrx2m" path="res://g_head_target.gd" id="7_b7a8r"]
 
-[sub_resource type="SkeletonModification2DLookAt" id="SkeletonModification2DLookAt_72kya"]
-bone_index = 2
-bone2d_node = NodePath("Spine_lower/Spine_upper/Head")
+[sub_resource type="SkeletonModification2DLookAt" id="SkeletonModification2DLookAt_b7a8r"]
+bone_index = 7
+bone2d_node = NodePath("Spine_lower/Spine_upper/Arm")
 target_nodepath = NodePath("../G_head_target")
 
-[sub_resource type="SkeletonModification2DTwoBoneIK" id="SkeletonModification2DTwoBoneIK_b7a8r"]
-joint_one_bone_idx = 2
-joint_two_bone_idx = 1
+[sub_resource type="SkeletonModification2DLookAt" id="SkeletonModification2DLookAt_kmk8s"]
+bone_index = 8
+bone2d_node = NodePath("Spine_lower/Spine_upper/Arm2")
+target_nodepath = NodePath("../G_head_target")
 
 [sub_resource type="SkeletonModificationStack2D" id="SkeletonModificationStack2D_72kya"]
 enabled = true
 modification_count = 2
-modifications/0 = SubResource("SkeletonModification2DLookAt_72kya")
-modifications/1 = SubResource("SkeletonModification2DTwoBoneIK_b7a8r")
+modifications/0 = SubResource("SkeletonModification2DLookAt_b7a8r")
+modifications/1 = SubResource("SkeletonModification2DLookAt_kmk8s")
 
 [node name="Goblin" type="Node2D"]
 position = Vector2(547, 405)
@@ -29,8 +30,9 @@ position = Vector2(547, 405)
 [node name="Parts" type="Node2D" parent="."]
 
 [node name="Body2_top" type="Sprite2D" parent="Parts"]
-position = Vector2(1, -8)
-rotation = 2.80046
+position = Vector2(1.00024, -8)
+rotation = 2.80047
+scale = Vector2(1, 1)
 texture = ExtResource("1_72kya")
 
 [node name="Body_bottom" type="Sprite2D" parent="Parts"]
@@ -38,43 +40,45 @@ position = Vector2(10, 42)
 texture = ExtResource("1_72kya")
 
 [node name="Head" type="Sprite2D" parent="Parts"]
-position = Vector2(2.11066, -46.9557)
-rotation = -1.50309
-scale = Vector2(0.999987, 0.999987)
+position = Vector2(-7.99957, -49)
+rotation = -1.90254
+scale = Vector2(1, 1)
 texture = ExtResource("2_b7a8r")
 
 [node name="Eye" type="Sprite2D" parent="Parts"]
-position = Vector2(-20.1431, -58.521)
-rotation = -1.29583
-scale = Vector2(0.999987, 0.999987)
+position = Vector2(-32.9996, -51.0002)
+rotation = -1.69528
+scale = Vector2(1, 1)
 texture = ExtResource("3_kmk8s")
 
 [node name="Eye2" type="Sprite2D" parent="Parts"]
-position = Vector2(22.6238, -41.5523)
-rotation = -1.26522
-scale = Vector2(0.999987, 0.999987)
+position = Vector2(13.0004, -51.9999)
+rotation = -1.66467
+scale = Vector2(1, 1)
 texture = ExtResource("3_kmk8s")
 
 [node name="EarL" type="Sprite2D" parent="Parts"]
-position = Vector2(-67.8445, -89.5127)
-rotation = 0.333523
-scale = Vector2(0.999987, 0.999987)
+position = Vector2(-88.9995, -61.0004)
+rotation = -0.0659248
+scale = Vector2(1, 1)
 texture = ExtResource("4_i616f")
 
 [node name="EarR" type="Sprite2D" parent="Parts"]
-position = Vector2(78.2056, -34.3701)
-rotation = 0.395711
-scale = Vector2(0.999987, 0.999987)
+position = Vector2(67.0004, -66.9997)
+rotation = -0.00374083
+scale = Vector2(1, 1)
 texture = ExtResource("5_wr6dc")
 
 [node name="Arm" type="Sprite2D" parent="Parts"]
-position = Vector2(-62, 18)
-rotation = 0.0535384
+position = Vector2(-32.2849, -8.07281)
+rotation = 1.60439
+scale = Vector2(0.999986, 0.999986)
 texture = ExtResource("6_cg5ay")
 
 [node name="Arm2" type="Sprite2D" parent="Parts"]
-position = Vector2(24.1199, 23.9683)
-rotation = -0.888174
+position = Vector2(28.3566, -27.6102)
+rotation = 1.0907
+scale = Vector2(0.999988, 0.999988)
 texture = ExtResource("6_cg5ay")
 
 [node name="Skeleton2D" type="Skeleton2D" parent="."]
@@ -88,13 +92,13 @@ rest = Transform2D(0.00269253, -0.999996, 0.999996, 0.00269253, 2, 58)
 [node name="Spine_upper" type="Bone2D" parent="Skeleton2D/Spine_lower"]
 position = Vector2(37.0026, 0.900372)
 rotation = -0.277537
+scale = Vector2(1, 1)
 rest = Transform2D(0.961733, -0.273988, 0.273988, 0.961733, 37.0026, 0.900372)
 
 [node name="Head" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
 position = Vector2(45.3339, 1.35436)
 rotation = -0.0569068
 rest = Transform2D(0.998381, -0.0568761, 0.0568761, 0.998381, 51.2067, -8.41859)
-metadata/_local_pose_override_enabled_ = true
 
 [node name="Eye" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper/Head"]
 position = Vector2(22.9444, -17.4802)
@@ -140,23 +144,25 @@ remote_path = NodePath("../../../../../Parts/Head")
 
 [node name="Arm" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
 position = Vector2(11.4239, -33.1436)
-rotation = -1.27208
-scale = Vector2(1, 1)
+rotation = -0.637993
+scale = Vector2(0.999998, 0.999997)
 rest = Transform2D(0.29429, -0.955716, 0.955716, 0.29429, 11.4239, -33.1436)
+metadata/_local_pose_override_enabled_ = true
 
 [node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper/Arm"]
-position = Vector2(30.0153, 0.283747)
-rotation = -3.11192
+position = Vector2(8.50602, -25.7034)
+rotation = -4.34867
 remote_path = NodePath("../../../../../Parts/Arm")
 
 [node name="Arm2" type="Bone2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
 position = Vector2(8.39344, 43.9267)
 rotation = -2.15445
 rest = Transform2D(-0.551081, -0.834452, 0.834452, -0.551081, 8.39344, 43.9267)
+metadata/_local_pose_override_enabled_ = true
 
 [node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper/Arm2"]
-position = Vector2(29.7234, -0.721768)
-rotation = 3.11192
+position = Vector2(-18.6438, -26.1799)
+rotation = 0.944939
 remote_path = NodePath("../../../../../Parts/Arm2")
 
 [node name="RemoteTransform2D" type="RemoteTransform2D" parent="Skeleton2D/Spine_lower/Spine_upper"]
@@ -183,5 +189,5 @@ position = Vector2(-33, -50)
 position = Vector2(12, -52)
 
 [node name="G_head_target" type="Node2D" parent="."]
-position = Vector2(0, -141)
+position = Vector2(-38, -172)
 script = ExtResource("7_b7a8r")
