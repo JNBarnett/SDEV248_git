@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://cubdutvl7o0ow"]
 
 [ext_resource type="Texture2D" uid="uid://dc5kl6u8a0tjl" path="res://icon.svg" id="1_f3sb7"]
-[ext_resource type="Script" uid="uid://dn6vlqlml8hj1" path="res://player.gd" id="2_fj7yv"]
+[ext_resource type="Script" uid="uid://dn6vlqlml8hj1" path="res://player.gd" id="3_tlwt5"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_fj7yv"]
 size = Vector2(207, 20)
@@ -92,9 +92,8 @@ texture = ExtResource("1_f3sb7")
 
 [node name="Player" type="RigidBody2D" parent="."]
 position = Vector2(418, 271)
-script = ExtResource("2_fj7yv")
-acceleration = 60.0
-jump_accel = -1000.0
+script = ExtResource("3_tlwt5")
+jump_accel = -700.0
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player"]
 position = Vector2(5, 2.5)
@@ -105,3 +104,9 @@ shape = SubResource("RectangleShape2D_tlwt5")
 position = Vector2(6, 3)
 scale = Vector2(0.25, 0.25)
 texture = ExtResource("1_f3sb7")
+
+[node name="RichTextLabel" type="RichTextLabel" parent="."]
+offset_left = 35.0
+offset_top = 37.0
+offset_right = 349.0
+offset_bottom = 196.0
